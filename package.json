@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/David256/mineflayer-place.git"
   },
   "keywords": [
     "bot",
