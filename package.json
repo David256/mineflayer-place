@@ -1,0 +1,25 @@
+{
+  "name": "mineflayer-place",
+  "version": "1.0.0",
+  "description": "mineflayer plugin to emit events when entities get in in places",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "bot",
+    "mineflayer",
+    "minecraft",
+    "vec3"
+  ],
+  "author": "David256",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mineflayer": "^2.21.0"
+  }
+}
